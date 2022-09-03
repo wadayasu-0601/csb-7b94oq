@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://wadayasu-0601.github.io/csb-7b94oq/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://wadayasu-0601.github.io/csb-7b94oq/static/js/main.c79e3e29.chunk.js",
+    "main.js.map": "https://wadayasu-0601.github.io/csb-7b94oq/static/js/main.c79e3e29.chunk.js.map",
+    "runtime-main.js": "https://wadayasu-0601.github.io/csb-7b94oq/static/js/runtime-main.84d2c565.js",
+    "runtime-main.js.map": "https://wadayasu-0601.github.io/csb-7b94oq/static/js/runtime-main.84d2c565.js.map",
+    "static/js/2.56489546.chunk.js": "https://wadayasu-0601.github.io/csb-7b94oq/static/js/2.56489546.chunk.js",
+    "static/js/2.56489546.chunk.js.map": "https://wadayasu-0601.github.io/csb-7b94oq/static/js/2.56489546.chunk.js.map",
+    "index.html": "https://wadayasu-0601.github.io/csb-7b94oq/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://wadayasu-0601.github.io/csb-7b94oq/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.56489546.chunk.js.LICENSE.txt": "https://wadayasu-0601.github.io/csb-7b94oq/static/js/2.56489546.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84d2c565.js",
+    "static/js/2.56489546.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c79e3e29.chunk.js"
+  ]
+}
